@@ -23,33 +23,37 @@
 
 
 ## Links
-[Εκτελέσιμο Παράδειγμα στο gh-pages](https://asteriosp.github.io/D3js-uk-political-donations/)
+- [Εκτελέσιμο Παράδειγμα στο gh-pages](https://asteriosp.github.io/D3js-uk-political-donations/)
 
-[Αποθετήριο του κώδικα](https://github.com/AsteriosP/D3js-uk-political-donations)
+- [Αποθετήριο του κώδικα](https://github.com/AsteriosP/D3js-uk-political-donations)
 
-[Ήχος των κουμπιών των ομαδοποιήσεων των δεδομένων](https://freesound.org/people/altemark/sounds/35415/)
+- [Ήχος των κουμπιών των ομαδοποιήσεων των δεδομένων](https://freesound.org/people/altemark/sounds/35415/)
 
-[Βιβλιοθήκη αναπαραγωγής ομιλίας από κείμενο](https://responsivevoice.org/)
+- [Βιβλιοθήκη αναπαραγωγής ομιλίας από κείμενο](https://responsivevoice.org/)
 
-[Javascript - HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+- [Javascript - HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
 
-[Buttons Sound με Javascript](https://stackoverflow.com/questions/9419263/playing-audio-with-javascript)
+- [Buttons Sound με Javascript](https://stackoverflow.com/questions/9419263/playing-audio-with-javascript)
 
-[Zoom on Hover](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
+- [Zoom on Hover](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
 
-[Καινούριο γράφημα](http://blockbuilder.org/renecnielsen/9904735)
+- [Καινούριο γράφημα](http://blockbuilder.org/renecnielsen/9904735)
 
-### Links από τις εικόνες του πρώτου παραδοτέου 
+- Links από τις εικόνες του πρώτου παραδοτέου 
 
-[Scottish Parliament](https://www.facebook.com/scottishparliament/)
+  - [Scottish Parliament](https://www.facebook.com/scottishparliament/)
 
-[House of Commons](http://www.ipex.eu/IPEXL-WEB/parliaments/institution/ukcom.do)
+  - [House of Commons](http://www.ipex.eu/IPEXL-WEB/parliaments/institution/ukcom.do)
 
-[House of Lords](https://commons.wikimedia.org/wiki/File:House_of_Lords.svg)
+  - [House of Lords](https://commons.wikimedia.org/wiki/File:House_of_Lords.svg)
 
-[Australian Labor Party](https://en.wikipedia.org/wiki/Australian_Labor_Party)
+  - [Australian Labor Party](https://en.wikipedia.org/wiki/Australian_Labor_Party)
 
-Sir Arthur Rowbotham
+  - Sir Arthur Rowbotham
+
+- [Github API](https://developer.github.com/v3/)
+
+- []()
 
 
 
