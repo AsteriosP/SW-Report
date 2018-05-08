@@ -45,7 +45,7 @@
 
 
 ## Αποτελέσματα
-https://www.youtube.com/watch?v=_lA_0Bnu1jQ
+{% include youtubePlayer.html _lA_0Bnu1jQ %}
 
 
 
