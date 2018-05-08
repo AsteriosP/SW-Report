@@ -39,6 +39,17 @@
 
 [Καινούριο γράφημα](http://blockbuilder.org/renecnielsen/9904735)
 
+### Links από τις εικόνες του πρώτου παραδοτέου 
+
+[Scottish Parliament](https://www.facebook.com/scottishparliament/)
+
+[House of Commons](http://www.ipex.eu/IPEXL-WEB/parliaments/institution/ukcom.do)
+
+[House of Lords](https://commons.wikimedia.org/wiki/File:House_of_Lords.svg)
+
+[Australian Labor Party](https://en.wikipedia.org/wiki/Australian_Labor_Party)
+
+Sir Arthur Rowbotham
 
 
 
