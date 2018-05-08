@@ -1,4 +1,7 @@
-# Μάθημα: Τεχνολογία Λογισμικού
+<img src="https://user-images.githubusercontent.com/18286552/39784957-0596ed20-5323-11e8-94c7-63ad78830152.jpg" height="100" width="100">
+
+# Μάθημα: Τεχνολογία Λογισμικού         
+
 
 #### Ονοματεπώνυμο: Αστέριος Παπαμιχαήλ
 
@@ -48,21 +51,19 @@
 ## Αποτελέσματα
 {% include youtubePlayer.html id="_lA_0Bnu1jQ" %}
 
-Επιλέχθηκε βίντεο για τον λόγο ότι παρουσιάζει τις αλλαγές όπου έγιναν και τις κινήσεις από τις μπάλες επίσης τους ήχους της διαδικτυακής εφαρμογής όπου δεν είναι δυνατό να αναπαρασταθεί με τις κινούμενες εικόνες .gif. Είναι σημειωτέο ότι το βίντεο καλύπτει όλα(Εκτός την αναζήτηση στην αρχική οπτικοποίηση για αυτό και προστίθεται gif που το παρουσιάζει) τα ζητούμενα των παραδοτέων που πραγματεύονται το προσωπικό αποθετήριο.
+Επιλέχθηκε βίντεο για τον λόγο ότι παρουσιάζει τις αλλαγές όπου έγιναν και τις κινήσεις από τις μπάλες επίσης τους ήχους της διαδικτυακής εφαρμογής όπου δεν είναι δυνατό να αναπαρασταθεί με τις κινούμενες εικόνες .gif. Είναι σημειωτέο ότι το βίντεο καλύπτει όλα(Εκτός την αναζήτηση από την αρχική οπτικοποίηση για αυτό και προστίθεται gif που το παρουσιάζει) τα ζητούμενα των παραδοτέων που πραγματεύονται το προσωπικό αποθετήριο.
 
-να βαλώ gifs με το animation και το search
+Το κλικ σε κάποια μπάλα ανοίγει ένα νέο παράθυρο με τα αποτελέσματα της αναζήτησης στο google για τον αντίστοιχο δωρητή.
 
+![search](https://user-images.githubusercontent.com/18286552/37308298-419bdc40-2646-11e8-8377-e3ce15c8ff2a.gif)
 
+Το animation για το όνομα χρήστη και την εικόνα του Github
 
+![animation](https://user-images.githubusercontent.com/18286552/39784763-417be080-5322-11e8-8f16-381306827a52.gif)
 
+Η σελίδα από τις συνεισφορές του κεντρικού αποθετηρίου του κώδικα
 
-
-
-
-
-
-
-
+![contributions](https://user-images.githubusercontent.com/18286552/39784865-b64e4a88-5322-11e8-8a25-7dea2e87d04f.png)
 
 
 
@@ -72,63 +73,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AsteriosP/SW-Report/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AsteriosP/SW-Report/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
