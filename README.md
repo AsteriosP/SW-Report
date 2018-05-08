@@ -45,7 +45,7 @@
 
 
 ## Αποτελέσματα
-{% include youtubePlayer.html _lA_0Bnu1jQ %}
+{% include youtubePlayer.html id="_lA_0Bnu1jQ" %}
 
 
 
