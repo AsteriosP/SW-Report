@@ -23,39 +23,21 @@
 
 
 ## Links
-- [Εκτελέσιμο Παράδειγμα στο gh-pages](https://asteriosp.github.io/D3js-uk-political-donations/)
+[Εκτελέσιμο Παράδειγμα στο gh-pages](https://asteriosp.github.io/D3js-uk-political-donations/)
 
-- [Αποθετήριο του κώδικα](https://github.com/AsteriosP/D3js-uk-political-donations)
+[Αποθετήριο του κώδικα](https://github.com/AsteriosP/D3js-uk-political-donations)
 
-- [Ήχος των κουμπιών των ομαδοποιήσεων των δεδομένων](https://freesound.org/people/altemark/sounds/35415/)
+[Πρώτο Παραδοτέο (Κώδικας)](https://github.com/AsteriosP/D3js-uk-political-donations/tree/Paradoteo1-Meros1o)
 
-- [Βιβλιοθήκη αναπαραγωγής ομιλίας από κείμενο](https://responsivevoice.org/)
+[Πρώτο Παραδοτέο (Κοινό αποθετήριο)](https://github.com/AsteriosP/D3js-uk-political-donations/tree/Paradoteo1-Meros2o)
 
-- [Javascript - HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+[Δεύτερο Παραδοτέο (Κοινό αποθετήριο)](https://github.com/AsteriosP/D3js-uk-political-donations/tree/Paradoteo2-Meros2o)
 
-- [Buttons Sound με Javascript](https://stackoverflow.com/questions/9419263/playing-audio-with-javascript)
+[Αποδοχή Πρώτου Παραδοτέου (Κοινό αποθετήριο κώδικα)](https://github.com/ioniodi/D3js-uk-political-donations/pull/39)
 
-- [Zoom on Hover](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
+[Αποδοχή Δεύτερου Παραδοτέου (Κοινό αποθετήριο κώδικα)](https://github.com/ioniodi/D3js-uk-political-donations/pull/265)
 
-- [Καινούριο γράφημα](http://blockbuilder.org/renecnielsen/9904735)
-
-- Links από τις εικόνες του πρώτου παραδοτέου 
-
-  - [Scottish Parliament](https://www.facebook.com/scottishparliament/)
-
-  - [House of Commons](http://www.ipex.eu/IPEXL-WEB/parliaments/institution/ukcom.do)
-
-  - [House of Lords](https://commons.wikimedia.org/wiki/File:House_of_Lords.svg)
-
-  - [Australian Labor Party](https://en.wikipedia.org/wiki/Australian_Labor_Party)
-
-  - Sir Arthur Rowbotham
-
-- [Github API](https://developer.github.com/v3/)
-
-- []()
-
-
+[Αποδοχή Πρώτου Παραδοτέου (Αναφοράς)](https://github.com/ioniodi/D3js-uk-political-donations/pull/39)
 
 
 
@@ -113,6 +95,33 @@
 
 # Δικτυογραφία
 
+- [Ήχος των κουμπιών των ομαδοποιήσεων των δεδομένων](https://freesound.org/people/altemark/sounds/35415/)
+
+- [Βιβλιοθήκη αναπαραγωγής ομιλίας από κείμενο](https://responsivevoice.org/)
+
+- [Javascript - HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+
+- [Buttons Sound με Javascript](https://stackoverflow.com/questions/9419263/playing-audio-with-javascript)
+
+- [Zoom on Hover](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
+
+- [Καινούριο γράφημα](http://blockbuilder.org/renecnielsen/9904735)
+
+- Links από τις εικόνες του πρώτου παραδοτέου 
+
+  - [Scottish Parliament](https://www.facebook.com/scottishparliament/)
+
+  - [House of Commons](http://www.ipex.eu/IPEXL-WEB/parliaments/institution/ukcom.do)
+
+  - [House of Lords](https://commons.wikimedia.org/wiki/File:House_of_Lords.svg)
+
+  - [Australian Labor Party](https://en.wikipedia.org/wiki/Australian_Labor_Party)
+
+  - Sir Arthur Rowbotham
+
+- [Github API](https://developer.github.com/v3/)
+
+- [Αριθμός οχημάτων (Ελληνική Στατιστική Αρχή)](http://www.statistics.gr/el/statistics/-/publication/SME18/-)
 
 
 
