@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/18286552/39784957-0596ed20-5323-11e8-94c7-63ad78830152.jpg" height="100" width="100">
+<img src="https://user-images.githubusercontent.com/18286552/39784957-0596ed20-5323-11e8-94c7-63ad78830152.jpg" height="150" width="150">
 
 # Μάθημα: Τεχνολογία Λογισμικού         
 
