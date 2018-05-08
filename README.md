@@ -21,10 +21,25 @@
 
 
 
+
 ## Links
 [Εκτελέσιμο Παράδειγμα στο gh-pages](https://asteriosp.github.io/D3js-uk-political-donations/)
 
 [Αποθετήριο του κώδικα](https://github.com/AsteriosP/D3js-uk-political-donations)
+
+[Ήχος των κουμπιών των ομαδοποιήσεων των δεδομένων](https://freesound.org/people/altemark/sounds/35415/)
+
+[Βιβλιοθήκη αναπαραγωγής ομιλίας από κείμενο](https://responsivevoice.org/)
+
+[Javascript - HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+
+[Buttons Sound με Javascript](https://stackoverflow.com/questions/9419263/playing-audio-with-javascript)
+
+[Zoom on Hover](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
+
+[Καινούριο γράφημα](http://blockbuilder.org/renecnielsen/9904735)
+
+
 
 
 
@@ -51,15 +66,15 @@
 
 
 Και στο κοινό αποθετήριο έγιναν τα εξής:
-- Το αρχείο .csv με τα στοιχεία μου
+- [Το αρχείο .csv με τα στοιχεία μου](https://github.com/AsteriosP/D3js-uk-political-donations/blob/Paradoteo1-Meros2o/participants/2015059.csv)
 - Προσθήκη 5 εικόνες δωρητών: 
-  1. Scottish Parliament (71)
-  2. House of Commons (72) 
-  3. House of Lords (78) 
-  4. Australian Labor Party (89) 
-  5. Sir Arthur Rowbotham (95)
-- Τροποποίηση του αρχείου index.html στο φάκελο participants προκειμένου να εμφανίζονται τα στοιχεία μου με animation.
-- Οπτικοποίηση των χρηστών που συνεισφέρουν στο κεντρικό αποθετήριο του κώδικα
+  1. [Scottish Parliament (71)](https://github.com/AsteriosP/D3js-uk-political-donations/blob/Paradoteo1-Meros2o/photos/Scottish%20Parliament.ico)
+  2. [House of Commons (72)](https://github.com/AsteriosP/D3js-uk-political-donations/blob/Paradoteo1-Meros2o/photos/House%20of%20Commons.ico) 
+  3. [House of Lords (78)](https://github.com/AsteriosP/D3js-uk-political-donations/blob/Paradoteo1-Meros2o/photos/House%20of%20Lords.ico)
+  4. [Australian Labor Party (89)](https://github.com/AsteriosP/D3js-uk-political-donations/blob/Paradoteo1-Meros2o/photos/Australian%20Labor%20Party.ico)
+  5. [Sir Arthur Rowbotham (95)](https://github.com/AsteriosP/D3js-uk-political-donations/blob/Paradoteo1-Meros2o/photos/Sir%20Arthur%20Rowbotham.ico)
+- Τροποποίηση του αρχείου [index.html](https://github.com/AsteriosP/D3js-uk-political-donations/blob/Paradoteo2-Meros2o/participants/index.html) στο φάκελο participants προκειμένου να εμφανίζονται τα στοιχεία μου με animation.
+- [Οπτικοποίηση των χρηστών που συνεισφέρουν στο κεντρικό αποθετήριο του κώδικα](https://github.com/AsteriosP/D3js-uk-political-donations/blob/Paradoteo2-Meros2o/participants/2015059.html)
 
 
 ## Αποτελέσματα
@@ -80,6 +95,8 @@
 Η σελίδα από τις συνεισφορές του κεντρικού αποθετηρίου του κώδικα
 
 ![contributions](https://user-images.githubusercontent.com/18286552/39784865-b64e4a88-5322-11e8-8a25-7dea2e87d04f.png)
+
+# Δικτυογραφία
 
 
 
